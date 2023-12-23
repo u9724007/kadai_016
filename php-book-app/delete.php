@@ -2,7 +2,7 @@
 $dsn = 'mysql:dbname=php_book_app;host=localhost;charset=utf8mb4';
 $user = 'root';
 // MAMPを利用しているMacユーザーの方は、''ではなく'root'を代入してください
-$password = '';
+$password = 'diDJu|!J5vqX';
 
 try {
     $pdo = new PDO($dsn, $user, $password);
